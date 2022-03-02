@@ -1,0 +1,6 @@
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\bin\Release\ChessBot.exe.config
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\bin\Release\ChessBot.exe
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\bin\Release\ChessBot.pdb
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Release\ChessBot.csproj.CoreCompileInputs.cache
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Release\ChessBot.exe
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Release\ChessBot.pdb

@@ -1,0 +1,7 @@
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\bin\Debug\ChessBot.exe.config
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\bin\Debug\ChessBot.exe
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\bin\Debug\ChessBot.pdb
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Debug\ChessBot.csproj.AssemblyReference.cache
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Debug\ChessBot.csproj.CoreCompileInputs.cache
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Debug\ChessBot.exe
+C:\Users\t8851692\source\repos\ChessBot\ChessBot\obj\Debug\ChessBot.pdb
